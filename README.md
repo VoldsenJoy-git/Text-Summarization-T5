@@ -1,4 +1,5 @@
 # Text Summarization Using T5
+![](./pic.png)
 
 ## Overview
 This project demonstrates how to fine-tune the T5 (Text-To-Text Transfer Transformer) model for abstractive text summarization. The T5 model is a versatile transformer-based model designed to handle various NLP tasks by converting them into text-to-text problems. Here, it is trained to generate concise summaries for long-form text.
